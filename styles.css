@@ -1,7 +1,22 @@
 
 /* Your CSS Code here. */
+.table{
+	width:600px;
+}
 #total{
 	height:40px;
 	width:50px;
 	
+}
+tfoot {
+  margin:left:30px;
+	text-align: center; 
+}
+
+caption {
+    padding: 10px;
+    caption-side: bottom;
+}
+td {
+    text-align: center;
 }
