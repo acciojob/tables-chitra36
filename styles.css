@@ -10,6 +10,13 @@ tr#total{
 	 
 	box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
+.Total{
+	height:40px;
+	width:50px;
+	 
+	box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+
+}
 thead{
  color:black;
 }
