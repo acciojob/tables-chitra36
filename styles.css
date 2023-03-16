@@ -8,7 +8,7 @@
 .table-responsive{
 	overflow-x:auto;
 }
-tr#total{
+#total{
 	height:40px;
 	width:50px;
 	 
